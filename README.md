@@ -11,3 +11,5 @@ Hardware
 * Relay shield (http://www.seeedstudio.com/wiki/Relay_Shield_V2.0)
 * Smartphone
 * Smartwatch
+
+![architecture](https://raw.githubusercontent.com/jose-troche/rocket-launcher/master/docs/img/RocketLauncher.png)
