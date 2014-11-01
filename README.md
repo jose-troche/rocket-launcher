@@ -1,7 +1,7 @@
-rocket-launcher
-===============
+Smartwatch Rocket Launcher
+==========================
 
-Application to launch a rocket from a smart watch using Arduino
+Application to launch a model rocket from a smart watch using an Arduino-based igniter
 
 Hardware
 ========
