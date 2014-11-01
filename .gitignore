@@ -13,6 +13,7 @@
 # Generated files
 bin/
 gen/
+out/
 
 # Gradle files
 .gradle/
@@ -26,3 +27,14 @@ proguard/
 
 # Log Files
 *.log
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Others
+*.iml
+.idea/
