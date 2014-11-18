@@ -3,6 +3,9 @@ Smartwatch Rocket Launcher
 
 Application to launch a model rocket from a smart watch using an Arduino-based igniter
 
+[![Demo Video Image](https://raw.githubusercontent.com/jose-troche/Documentation/master/SmartWatchRocketLauncher/smartwatch-rocket-launcher-video.png)]
+(//www.youtube.com/embed/jpNanZiIaBE?rel=0)
+
 Hardware
 ========
 
